@@ -1,13 +1,12 @@
 <h1 align="center">Hi 👋, I'm Pratik Mate</h1>
 <h3 align="center">Thank You for taking the time to view my GitHub Profile 😄</h3>
 
-- Build this project in Masai School during construct week with a team of 6 members within a period of 6 days. [Fraazo Clone](https://github.com/shriram083/Fraazo-Clone)
-
 - 🌱 I’m currently learning **MERN stack at Masai School**
 
 - 👨‍💻 All of my projects are available at [https://github.com/PratikMate](https://github.com/PratikMate)
 
 - 📫 How to reach me **pratikm470@gmail.com**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
