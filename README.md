@@ -10,8 +10,9 @@
 ![image](https://raw.githubusercontent.com/lionelsamrat10/lionelsamrat10/main/header_.png)
 
 <h1 align="center">Hi !! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35">, I am Pratik Mate</h1>
-<h3 align="center"><i>I'm a Full-Stack-Web Developer with some remarkable analytical skills.</i></h3>
-<h3 align="center"><i>I consider myself as a tech  enthusiastic person.</i></h3>
+<h3 align="center"><i>Dedicated and passionate Web Developer💻 with excellent learning skills, experience
+in building Web Applications, and making websites user-friendly.  I'm skilled in the MERN stack. I've built some cool projects. Do check them out. Apart from coding, I love listening to music 🎵, and playing video games 🎮.</i></h3>
+<!-- <h3 align="center"><i>I consider myself as a tech  enthusiastic person.</i></h3> -->
 
 <h5 align="left"><i>Portfolio --- </i>
 <a href="https://pratikmate-portfolio.netlify.app/" target="blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Portfolio&color=Teal&logo=tmux&logoColor=teal&label=" alt="Lybrate" /></a> 
